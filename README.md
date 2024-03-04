@@ -1,3 +1,4 @@
+![logo](https://github.com/AyushKumar378/AyushKumar378/blob/main/ayushkumarbanner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
